@@ -1,0 +1,593 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/TVP%20HD.png",TVP
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880504&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/TVP%201%20HD.png",TVP 1
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880520&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/TVP%202%20HD.png",TVP 2
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880519&extension=m3u8
+#EXTINF:0 group-title="Informacjne" tvg-logo="http://logo.plusx.tv/logo/TV%20Republika.png",TV Republika
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880203&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/13%20Ulica%20HD.png",13 Ulica
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880352&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://epg.ovh/logo/Antena.png",Antena
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1060637&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/AXN%20Black.png",AXN Black
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880236&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png",AXN
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880350&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/AXN%20Spin%20HD.png",AXN Spin
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880349&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/AXN%20White.png",AXN White
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880235&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/Adventure%20HD.png",Adventure
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880294&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://epg.ovh/logo/Active+Family.png",Active Family
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880234&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="https://epg.ovh/logo/Home+TV.png",Home TV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880214&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/BBC%20Frist.png",BBC First
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880309&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/Comedy%20Central%20Family.png",Comedy Central Extra
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880403&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/Comedy%20Central%20HD.png",Comedy Central
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880487&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/Domo+.png",Canal+ Domo
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880424&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/E!%20Entertainment.png",E! Entertainment
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880422&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/Epic%20Drama.png",Epic Drama
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880421&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/Food%20Network%20HD.png",Food Network
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880481&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/FOX%20Comedy%20HD.png",FOX Comedy
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880480&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/FOX%20HD.png",FOX
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880477&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/HGTV%20HD.png",HGTV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880385&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/Kuchnia+%20HD.png",Canal+ Kuchnia
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880415&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://93.159.131.123/netmar/insert/img/programy/novelatv.png",Novela TV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880209&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/Polsat+Rodzina.png",Polsat Rodzina
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880506&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/Polsat+Games.png",Polsat Games
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880401&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="https://epg.ovh/logo/Gametoon+HD.png",Gametoon
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1121747&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://epg.ovh/logo/GINX+ESPORTS+TV.png",Ginx Esports TV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1121748&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Cafe%20HD.png",Polsat Cafe
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880404&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Play%20HD.png",Polsat Play
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880399&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="https://satkurier.pl/uploads/79469.jpg",Polsat Seriale
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880507&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://epg.ovh/logo/Red+Carpet+TV.png",Red Carpet TV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880395&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/Romance%20TV%20HD.png",Romance TV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880394&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_595231.png",StudioMed TV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880393&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/TLC%20HD.png",TLC
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880474&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/TTV%20HD.png",TTV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880389&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/TVN%20Style%20HD.png",TVN Style
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880515&extension=m3u8
+#EXTINF:0 group-title="Rozrywkowe" tvg-logo="http://logo.plusx.tv/logo/Travel%20Channel%20HD.png",Travel Channel
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880445&extension=m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="http://logo.plusx.tv/logo/4Fun%20Fit%20Dance.png",4FUN DANCE
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880222&extension=m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="http://logo.plusx.tv/logo/4Fun.png",4FUN TV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880220&extension=m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="http://logo.plusx.tv/logo/Disco%20Polo%20Music.png",Disco Polo Music
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1121755&extension=m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="http://logo.plusx.tv/logo/Eska%20TV.png",Eska TV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880216&extension=m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="http://logo.plusx.tv/logo/Eska+TV+Extra.png",Eska TV Extra
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880215&extension=m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="http://logo.plusx.tv/logo/Eska+Rock+TV.png",Eska Rock TV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880217&extension=m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="http://logo.plusx.tv/logo/Kino%20Polska%20Muzyka.png",Kino Polska Muzyka
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880213&extension=m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="https://epg.ovh/logo/MixTape+HD.png",MixTape
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1121760&extension=m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="https://epg.ovh/logo/Deluxe+Music+HD.png",Deluxe Music
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880199&extension=m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="http://logo.plusx.tv/logo/MTV%20Live%20HD.png",MTV Live
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880409&extension=m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="http://logo.plusx.tv/logo/MTV%20Music.png",MTV 00s
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880200&extension=m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="http://epg.ovh/logo/MTV+80S.png",MTV 80s
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1121761&extension=m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="https://epg.ovh/logo/360+TUNEBOX.png",360 TUNEBOX
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1121759&extension=m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="http://logo.plusx.tv/logo/MTV%20Polska%20HD.png",MTV Polska
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880408&extension=m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="http://logo.plusx.tv/logo/VOX%20Music%20TV.png",VOX Music TV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880198&extension=m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="https://epg.ovh/logo/Jazz+HD.png",Jazz
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1121754&extension=m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="http://logo.plusx.tv/logo/Nuta%20TV.png",Nuta TV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880207&extension=m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="http://logo.plusx.tv/logo/Polo%20TV.png",Polo TV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880383&extension=m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Music%20HD.png",Polsat Music
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880400&extension=m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="http://logo.plusx.tv/logo/Power%20TV.png",Power TV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880205&extension=m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="http://logo.plusx.tv/logo/Stars%20TV.png",Stars TV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880204&extension=m3u8
+#EXTINF:0 group-title="Dzieci" tvg-logo="http://logo.plusx.tv/logo/4Fun%20Hits.png",4FUN KIDS
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1035704&extension=m3u8
+#EXTINF:0 group-title="Dzieci" tvg-logo="https://epg.ovh/logo/2x2.png",2x2
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1121758&extension=m3u8
+#EXTINF:0 group-title="Dzieci" tvg-logo="http://logo.plusx.tv/logo/BBC%20Cbeebies.png",BBC CBeebies
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880226&extension=m3u8
+#EXTINF:0 group-title="Dzieci" tvg-logo="http://logo.plusx.tv/logo/Baby%20TV.png",Baby TV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880225&extension=m3u8
+#EXTINF:0 group-title="Dzieci" tvg-logo="http://logo.plusx.tv/logo/Cartoon%20Network%20HD.png",Cartoon Network
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880432&extension=m3u8
+#EXTINF:0 group-title="Dzieci" tvg-logo="http://logo.plusx.tv/logo/Disney%20Channel%20HD.png",Disney Channel
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880285&extension=m3u8
+#EXTINF:0 group-title="Dzieci" tvg-logo="http://logo.plusx.tv/logo/Disney+Junior.png",Disney Junior
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880219&extension=m3u8
+#EXTINF:0 group-title="Dzieci" tvg-logo="http://logo.plusx.tv/logo/Disney+XD.png",Disney XD
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880218&extension=m3u8
+#EXTINF:0 group-title="Dzieci" tvg-logo="https://epg.ovh/logo/Duck+TV.png",Duck TV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1121750&extension=m3u8
+#EXTINF:0 group-title="Dzieci" tvg-logo="https://epg.ovh/logo/DuckTV+Plus.png",DuckTV Plus
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1121751&extension=m3u8
+#EXTINF:0 group-title="Dzieci" tvg-logo="https://epg.ovh/logo/TeenNick.png",TeenNick
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880411&extension=m3u8
+#EXTINF:0 group-title="Dzieci" tvg-logo="http://logo.plusx.tv/logo/MiniMini+%20HD.png",MiniMini+
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880414&extension=m3u8
+#EXTINF:0 group-title="Dzieci" tvg-logo="https://epg.ovh/logo/Junior+Music.png",Junior Music
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1121756&extension=m3u8
+#EXTINF:0 group-title="Dzieci" tvg-logo="http://logo.plusx.tv/logo/Nick%20Jr.png",Nick Jr
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880211&extension=m3u8
+#EXTINF:0 group-title="Dzieci" tvg-logo="http://logo.plusx.tv/logo/Nicktoons%20HD.png",Nicktoons
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880412&extension=m3u8
+#EXTINF:0 group-title="Dzieci" tvg-logo="http://logo.plusx.tv/logo/Nickelodeon.png",Nickelodeon
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880210&extension=m3u8
+#EXTINF:0 group-title="Dzieci" tvg-logo="https://epg.ovh/logo/NICKMUSIC.png",NickMusic
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1121757&extension=m3u8
+#EXTINF:0 group-title="Dzieci" tvg-logo="http://logo.plusx.tv/logo/JimJam%20Polsat.png",JimJam Polsat
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880206&extension=m3u8
+#EXTINF:0 group-title="Dzieci" tvg-logo="http://logo.plusx.tv/logo/Teletoon+%20HD.png",Teletoon+
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880390&extension=m3u8
+#EXTINF:0 group-title="Dzieci" tvg-logo="http://logo.plusx.tv/logo/TVP%20ABC.png",TVP ABC
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880239&extension=m3u8
+#EXTINF:0 group-title="Dzieci" tvg-logo="https://epg.ovh/logo/TVP+ABC+2.png",TVP ABC 2
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1121740&extension=m3u8
+#EXTINF:0 group-title="Dzieci" tvg-logo="https://epg.ovh/logo/TOP+KIDS.png",Top Kids
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=897016&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/AMC%20HD.png",AMC
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880293&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Ale%20Kino+%20HD.png",Ale Kino+
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880353&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png",Canal+ Family
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880500&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png",Canal+ Film
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880491&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Canal+%20HD.png",Canal+ Premium
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880498&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png",Canal+ Seriale
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880497&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png",Canal+ 1
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880501&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/CBS%20Europa%20HD.png",CBS Europa
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880431&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="https://epg.ovh/logo/Bollywood+HD.png",Bollywood
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1121746&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="https://epg.ovh/logo/FILMAX.png",FilMax
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1121744&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Cinemax%20HD.png",Cinemax
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880485&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png",Cinemax 2
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880488&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="https://epg.ovh/logo/DIZI.png",Dizi
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1121745&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Family.png",Filmbox Family
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880231&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Action.png",Filmbox Action
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880233&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Arthouse.png",Filmbox Arthouse
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880232&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Extra.png",Filmbox Extra
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880484&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Premium.png",Filmbox Premium
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880483&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png",HBO
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880494&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png",HBO 2
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880496&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png",HBO 3
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880495&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Kino%20Polska.png",Kino Polska
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880476&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Kino%20TV.png",Kino TV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880478&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Paramount%20Channel%20HD.png",Paramount Channel
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880472&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Film%20HD.png",Polsat Film
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880505&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Scifi%20Universal.png",SciFi
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880451&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Stopklatka%20TV.png",Stopklatka TV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880229&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/Sundance%20TV%20HD.png",Sundance TV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880392&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://epg.ovh/logo/Warner+TV.png",WB
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880473&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/TVN%20Fabula%20HD.png",TVN Fabula
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880516&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/VOD+205.png",VOD 205
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880197&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/VOD+206.png",VOD 206
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880196&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/VOD+207.png",VOD 207
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880195&extension=m3u8
+#EXTINF:0 group-title="Filmowe" tvg-logo="http://logo.plusx.tv/logo/VOD+208.png",VOD 208
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880194&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Animal%20Planet%20HD.png",Animal Planet
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880297&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/BBC%20Brit%20HD.png",BBC Brit
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880310&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/BBC%20Earth%20HD.png",BBC Earth
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880296&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/BBC%20Lifestyle%20HD.png",BBC Lifestyle
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880295&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Discovery%20HD.png",Canal+ Dokument
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880442&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/CBS%20Reality.png",CBS Reality
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880430&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/CI%20Polsat.png",CI Polsat
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880429&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/DTX%20HD.png",DTX
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880423&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Da%20Vinci%20Learning.png",Da Vinci Learning
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880224&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Discovery%20Historia.png",Discovery Historia
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880228&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Discovery%20Life.png",Discovery Life
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880427&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Discovery%20Science%20HD.png",Discovery Science
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880426&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Fokus%20TV.png",Fokus TV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880482&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/H2%20HD.png",H2
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880418&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/History%20HD.png",History
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880384&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/ID%20HD.png",ID
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880416&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Nat%20Geo%20People%20HD.png",Nat Geo People
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880440&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Nat%20Geo%20Wild%20HD.png",Nat Geo Wild
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880439&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/National%20Geographic%20HD.png",National Geographic
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880438&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Planete+%20HD.png",Planete+
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880405&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Doku%20HD.png",Polsat Doku
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880402&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20History%20HD.png",Polsat Viasat History
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880397&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20Explore%20HD.png",Polsat Viasat Explore
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880398&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20Nature%20HD.png",Polsat Viasat Nature
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880396&extension=m3u8
+#EXTINF:0 group-title="Dokumentalne" tvg-logo="http://epg.ovh/logo/WATER+PLANET.png",Water Planet
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880193&extension=m3u8
+#EXTINF:0 group-title="Informacjne" tvg-logo="https://media2.pl/g/750/73501.jpg",Biznes 24
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880444&extension=m3u8
+#EXTINF:0 group-title="Informacjne" tvg-logo="https://epg.ovh/logo/News24.png",News24
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1121738&extension=m3u8
+#EXTINF:0 group-title="Informacjne" tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%202.png",Polsat News 2
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880227&extension=m3u8
+#EXTINF:0 group-title="Informacjne" tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%20HD.png",Polsat News
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880441&extension=m3u8
+#EXTINF:0 group-title="Informacjne" tvg-logo="https://epg.ovh/logo/TVP+World.png",TVP World
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1121739&extension=m3u8
+#EXTINF:0 group-title="Informacjne" tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20HD.png",TVN 24
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880512&extension=m3u8
+#EXTINF:0 group-title="Informacjne" tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20BiS%20HD.png",TVN 24 BiS
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880513&extension=m3u8
+#EXTINF:0 group-title="Informacjne" tvg-logo="http://logo.plusx.tv/logo/TVP%20Info.png",TVP Info
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880503&extension=m3u8
+#EXTINF:0 group-title="Informacjne" tvg-logo="http://logo.plusx.tv/logo/wPolsce.pl.png",wPolsce.pl
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880191&extension=m3u8
+#EXTINF:0 group-title="Informacjne" tvg-logo="https://epg.ovh/logo/Wydarzenia+24.png",Wydarzenia 24
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1137583&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Now.png",Canal+ Now
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880499&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%202%20HD.png",Canal+ Sport 2
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880460&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://epg.ovh/logo/Canal++Sport+3+HD.png",Canal+ Sport 3
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880459&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://epg.ovh/logo/Canal++Sport+4+HD.png",Canal+ Sport 4
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880458&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="https://epg.ovh/logo/Canal++Sport+5.png",Canal+ Sport 5
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880406&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%201.png",Eleven Sports 1
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880457&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%202.png",Eleven Sports 2
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880456&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%203.png",Eleven Sports 3
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880455&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%204.png",Eleven Sports 4
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880454&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png",Eurosport 1
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880453&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Eurosport%202%20HD.png",Eurosport 2
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880452&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Extreme%20Sports%20HD.png",Extreme Sports
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880448&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Sportklub.png",SportKlub
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880447&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/FightKlub%20HD.png",FightKlub
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880420&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/FightBox%20HD.png",FightBox
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880446&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Golf%20Channel.png",Golf Channel
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880419&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Motowizja%20HD.png",Motowizja
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880413&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Extra%20HD.png",Polsat Sport Extra
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880471&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Fight%20HD.png",Polsat Sport Fight
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880469&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20HD.png",Polsat Sport
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880470&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20News%20HD.png",Polsat Sport News
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880468&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+1a.png",Polsat Sport Premium 1 50fps
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880467&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+1a.png",Polsat Sport Premium 1
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880327&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+2a.png",Polsat Sport Premium 2 50fps
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880466&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+2a.png",Polsat Sport Premium 2
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880326&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+3.png",Polsat Sport Premium 3
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880465&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+4.png",Polsat Sport Premium 4
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880464&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+5.png",Polsat Sport Premium 5
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880463&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+6.png",Polsat Sport Premium 6
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880462&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/TVN%20Turbo%20HD.png",TVN Turbo
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880514&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/TVP%20Sport%20HD.png",TVP Sport
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880502&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="http://logo.plusx.tv/logo/prime_fight_logo.png",Prime Fight
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1121749&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="https://epg.ovh/logo/KSW%20PL.png",PPV Event Fight 1
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1289021&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="https://epg.ovh/logo/FAME+MMA+HD.png",PPV Event Fight 2
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1289023&extension=m3u8
+#EXTINF:0 group-title="Sportowe" tvg-logo="https://epg.ovh/logo/Viaplay.png",EUROSPORT EXTRA 1
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1289020&extension=m3u8&play_token=M9vbSDp3QS
+#EXTINF:0 group-title="Sportowe" tvg-logo="https://epg.ovh/logo/Viaplay.png",EUROSPORT EXTRA 2
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1289019&extension=m3u8&play_token=R8a33mKyTw
+#EXTINF:0 group-title="Sportowe" tvg-logo="https://epg.ovh/logo/Viaplay.png",EUROSPORT EXTRA 3
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1289018&extension=m3u8&play_token=wJHWm7NNYu
+#EXTINF:0 group-title="Sportowe" tvg-logo="https://epg.ovh/logo/Viaplay.png",EUROSPORT EXTRA 6
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1289015&extension=m3u8&play_token=7duKs8S9C5
+#EXTINF:0 group-title="Sportowe" tvg-logo="https://epg.ovh/logo/Viaplay.png",EUROSPORT EXTRA 7
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1289014&extension=m3u8&play_token=EDDcmVlDnI
+#EXTINF:0 group-title="Sportowe" tvg-logo="https://epg.ovh/logo/Viaplay.png",EUROSPORT EXTRA 8
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1289013&extension=m3u8&play_token=dWePq5ob0v
+#EXTINF:0 group-title="4k" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%201.png",Eleven Sports 1 4K
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=905665&extension=m3u8
+#EXTINF:0 group-title="4k" tvg-logo="https://epg.ovh/logo/Canal++4K+Ultra+HD.png",CANAL+ 4K Ultra
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1271764&extension=m3u8
+#EXTINF:0 group-title="4k" tvg-logo="https://epg.ovh/logo/Love+Nature+4K.png",Love Nature 4K
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1131804&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/Metro%20TV.png",Metro
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880212&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/NOWA%20TV.png",Nowa TV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880407&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/TVP%20Seriale.png",Novelas+
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880410&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Polsat+1.png",Polsat 1
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=897011&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/Polsat%202%20HD.png",Polsat 2
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880508&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/Polsat%20HD.png",Polsat
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880509&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://epg.ovh/logo/Polonia+1.png",Polonia 1
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880241&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/Puls%202.png",Puls 2
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880479&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/Super%20Polsat%20HD.png",Super Polsat
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880386&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://epg.ovh/logo/Tele+5.png",Tele 5
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880230&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/TV%20Puls%20HD.png",TV Puls
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880475&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/TV%204.png",TV 4
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880510&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/TV%206%20HD.png",TV 6
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880511&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/TVN%207%20HD.png",TVN 7
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880517&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/TVN%20HD.png",TVN
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880518&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/iTVN.png",iTVN
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=897006&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVP+Kobieta.png",TVP Kobieta
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1121741&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/iTVN+extra.png",iTVN Extra
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=897007&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Warszawa
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880240&extension=m3u8
+#EXTINF:0 group-title="Regionalne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Białystok
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=936815&extension=m3u8
+#EXTINF:0 group-title="Regionalne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Bydgoszcz
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=936816&extension=m3u8
+#EXTINF:0 group-title="Regionalne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Gdańsk
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=936817&extension=m3u8
+#EXTINF:0 group-title="Regionalne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Łódź
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=936835&extension=m3u8
+#EXTINF:0 group-title="Regionalne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Olsztyn
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=936836&extension=m3u8
+#EXTINF:0 group-title="Regionalne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Rzeszów
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=936839&extension=m3u8
+#EXTINF:0 group-title="Regionalne" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png",TVP 3 Szczecin
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=936948&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVP+Dokument.png",TVP Dokument
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880388&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/TVP%20Historia.png",TVP Historia
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880238&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVP+Historia+2.png",TVP Historia2
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1121743&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/TVP%20Kultura.png",TVP Kultura
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880387&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVP+Kultura+2.png",TVP Kultura 2
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1121742&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/TVP%20Polonia.png",TVP Polonia
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880242&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/TVP%20Rozrywka.png",TVP Rozrywka
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880237&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/TVP%20Seriale.png",TVP Seriale
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=882105&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082012/tv_trwam.png?itok=8V3f5AsH",TV Trwam
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=884764&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/TVS.png",TVS
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880201&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/WP.png",WP
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880192&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="http://logo.plusx.tv/logo/Zoom%20TV.png",Zoom TV
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880190&extension=m3u8
+#EXTINF:0 group-title="TVN Online" tvg-logo="http://logo.plusx.tv/logo/55090765.png",TVN w Domu
+http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:07:e8:29&stream=1433901&extension=m3u8
+#EXTINF:0 group-title="TVN Online" tvg-logo="http://logo.plusx.tv/logo/55089488.png",TVN Moto
+http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:07:e8:29&stream=1433881&extension=m3u8
+#EXTINF:0 group-title="TVN Online" tvg-logo="http://logo.plusx.tv/logo/55089347.png",TVN Kultowe Seriale
+http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:07:e8:29&stream=1433877&extension=m3u8
+#EXTINF:0 group-title="TVN Online" tvg-logo="http://logo.plusx.tv/logo/55090792.png",TVN Życie Jak w Bajce
+http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:07:e8:29&stream=1433903&extension=m3u8
+#EXTINF:0 group-title="TVN Online" tvg-logo="http://epg.ovh/logo/TVN+Kryminalnie+Online.png",TVN Kryminalnie
+http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:07:e8:29&stream=1433875&extension=m3u8
+#EXTINF:0 group-title="TVN Online" tvg-logo="http://epg.ovh/logo/TVN+Momenty+Prawdy+Online.png",TVN Momenty Prawdy
+http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:07:e8:29&stream=1433879&extension=m3u8
+#EXTINF:0 group-title="TVN Online" tvg-logo="http://epg.ovh/logo/TVN+Prawo+i+%c5%bbycie+Online.png",TVN Prawo i Życie
+http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:07:e8:29&stream=1433883&extension=m3u8
+#EXTINF:0 group-title="TVN Online" tvg-logo="http://epg.ovh/logo/TVN+Rajska+Mi%c5%82o%c5%9b%c4%87+Online.png",TVN Rajska Miłość
+http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:07:e8:29&stream=1433885&extension=m3u8
+#EXTINF:0 group-title="TVN Online" tvg-logo="http://epg.ovh/logo/TVN+Rewolucje+w+Kuchni+Online.png",TVN Rewolucje w Kuchni
+http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:07:e8:29&stream=1433887&extension=m3u8
+#EXTINF:0 group-title="TVN Online" tvg-logo="http://epg.ovh/logo/TVN+Seriale+o+Kobietach+Online.png",TVN Seriale o Kobietach
+http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:07:e8:29&stream=1433889&extension=m3u8
+#EXTINF:0 group-title="TVN Online" tvg-logo="http://epg.ovh/logo/TVN+Szko%c5%82a+%c5%bbycia+Online.png",TVN Szkoła Życia
+http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:07:e8:29&stream=1433891&extension=m3u8
+#EXTINF:0 group-title="TVN Online" tvg-logo="http://epg.ovh/logo/TVN+Szpitalne+Historie+Online.png",TVN Szpitalne Historie
+http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:07:e8:29&stream=1433893&extension=m3u8
+#EXTINF:0 group-title="TVN Online" tvg-logo="http://epg.ovh/logo/TVN+Talk+Show+Online.png",TVN Talk Show
+http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:07:e8:29&stream=1433895&extension=m3u8
+#EXTINF:0 group-title="TVN Online" tvg-logo="http://epg.ovh/logo/TVN+Telenowele+Online.png",TVN Telenowele
+http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:07:e8:29&stream=1433897&extension=m3u8
+#EXTINF:0 group-title="TVN Online" tvg-logo="http://epg.ovh/logo/TVN+Usterka+Online.png",TVN Usterka
+http://pal.alphatx.me:80/play/live.php?mac=A0:BB:3E:07:e8:29&stream=1433899&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 1
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111761&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 2
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111760&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 3
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111759&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 4
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111758&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 5
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111757&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 6
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111756&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 7
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111755&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 8
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111754&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 9
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111753&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 10
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111752&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 11
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111751&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 12
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111750&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 13
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111749&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 14
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111748&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 15
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111747&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 16
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111746&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 17
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111745&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 18
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111744&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 19
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111743&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 20
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111742&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 21
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111741&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 22
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111740&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 23
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111739&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 24
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111738&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 26
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111737&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 27
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111736&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 28
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111735&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 29
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111734&extension=m3u8
+#EXTINF:0 group-title="Viaplay" tvg-logo="https://epg.ovh/logo/Viaplay.png",ViaPlay 30
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=1111733&extension=m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/CNN.png",CNN
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=880997&extension=m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="http://logo.protv.cc/picons/logos/RADIO-ZLOTE-PRZEBOJE.jpeg",ZŁOTE PRZEBOJE
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=953570&extension=m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="http://logo.protv.cc/picons/logos/RMF-Depeche-Mode.png",RMF DEPECHE MODE
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=953571&extension=m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="http://logo.protv.cc/picons/logos/Alt-Classic.png",ALT CLASSIC
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=953576&extension=m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="http://logo.protv.cc/picons/logos/90s-Hits.jpg",90S HITS
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=953577&extension=m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="http://logo.protv.cc/picons/logos/DISCO-POLO.png",DISCO POLO
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=953578&extension=m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="http://logo.protv.cc/picons/logos/500-RNB-HITS.png",500 R'N'B HITS
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=953579&extension=m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="http://logo.protv.cc/picons/logos/CREMA-CAF%c3%89.jpeg",CREMA CAFÉ
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=953580&extension=m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="http://logo.protv.cc/picons/logos/ITALO-DISCO.jpeg",ITALO DISCO
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=953581&extension=m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="http://logo.protv.cc/picons/logos/RADIOPARTY-KANA%c5%81-G%c5%81%c3%93WNY.png",RADIOPARTY KANAŁ GŁÓWNY
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=953582&extension=m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="http://logo.protv.cc/picons/logos/CLASSIC-METAL.jpeg",CLASSIC METAL
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=953583&extension=m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="http://logo.protv.cc/picons/logos/RADIO-RMF-BLUES.png",RMF BLUES
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=953584&extension=m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="http://logo.protv.cc/picons/logos/RADIO-TRANCE-PL.jpeg",TRANCE
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=953585&extension=m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="http://logo.protv.cc/picons/logos/80srfm.png",RMF 80S
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=953586&extension=m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="http://logo.protv.cc/picons/logos/Smoothjazz-com-pl.jpeg",SMOOTH JAZZ
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=953587&extension=m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="http://logo.protv.cc/picons/logos/chillizet.png",CHILLI ZET
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=953589&extension=m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="http://logo.protv.cc/picons/logos/radiopogoda.png",RADIO  POGODA
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=953590&extension=m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="http://logo.protv.cc/picons/logos/rmfmaxxx.png",RMF MAXXX
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=953591&extension=m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="http://logo.protv.cc/picons/logos/Radio-TOK-FM.png",TOK FM
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=953592&extension=m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="http://logo.protv.cc/picons/logos/radiozet.png",RADIO ZET
+http://cineplus-hd.com:80/play/live.php?mac=00:1A:79:80:08:a3&stream=953594&extension=m3u8
