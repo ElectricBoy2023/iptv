@@ -1,0 +1,405 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:0 ,TVP
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/10515
+#EXTINF:0 ,TVP 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1693
+#EXTINF:0 ,TVP 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1692
+#EXTINF:0 ,TV Republika
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/18932
+#EXTINF:0 ,13 Ulica
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2716
+#EXTINF:0 ,4Fun Dance
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/278633
+#EXTINF:0 ,4Fun Gold Hits
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/278634
+#EXTINF:0 ,4Fun Kids
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2703
+#EXTINF:0 ,4Fun TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2704
+#EXTINF:0 ,Active Family
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/67603
+#EXTINF:0 ,Adventure
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/37054
+#EXTINF:0 ,Ale Kino+
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/339
+#EXTINF:0 ,AMC
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/26539
+#EXTINF:0 ,Animal Planet
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1717
+#EXTINF:0 ,AXN
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3227
+#EXTINF:0 ,AXN Black
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2715
+#EXTINF:0 ,AXN Spin
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/23186
+#EXTINF:0 ,AXN White
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/340
+#EXTINF:0 ,Baby TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/37890
+#EXTINF:0 ,BBC Brit Polska
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3206
+#EXTINF:0 ,BBC Earth
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1716
+#EXTINF:0 ,BBC First
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/26545
+#EXTINF:0 ,BBC Lifestyle
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/122184
+#EXTINF:0 ,Biznes 24
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/276488
+#EXTINF:0 ,Boomerang
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/10206
+#EXTINF:0 ,Canal+ 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/24247
+#EXTINF:0 ,Canal+ Dokument
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2720
+#EXTINF:0 ,Canal+ Domo
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2695
+#EXTINF:0 ,Canal+ Family
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/147180
+#EXTINF:0 ,Canal+ Film
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1714
+#EXTINF:0 ,Canal+ Kuchnia
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1703
+#EXTINF:0 ,Canal+ Now
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/122183
+#EXTINF:0 ,Canal+ Premium
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/341
+#EXTINF:0 ,Canal+ Seriale
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/342
+#EXTINF:0 ,Canal+ Sport
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/69426
+#EXTINF:0 ,CANAL+ Sport 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/343
+#EXTINF:0 ,CANAL+ Sport 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/33580
+#EXTINF:0 ,CANAL+ Sport 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/78322
+#EXTINF:0 ,CANAL+ Sport 5
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/297382
+#EXTINF:0 ,Cartoon Network
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1713
+#EXTINF:0 ,CBeebies
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/41868
+#EXTINF:0 ,CBS Europa
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/26210
+#EXTINF:0 ,CBS Reality
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3224
+#EXTINF:0 ,Cinemax
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/345
+#EXTINF:0 ,Cinemax 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1712
+#EXTINF:0 ,Comedy Central
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16675
+#EXTINF:0 ,Comedy Central Extra
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3222
+#EXTINF:0 ,Crime+ Investigation
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2729
+#EXTINF:0 ,Da Vinci Kids
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/25615
+#EXTINF:0 ,Disco Polo Music
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1711
+#EXTINF:0 ,Discovery History
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1710
+#EXTINF:0 ,Discovery Life Polska
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1709
+#EXTINF:0 ,Discovery Science Polska
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/10523
+#EXTINF:0 ,Discovery Turbo Xtra (DTX)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/283190
+#EXTINF:0 ,Discovery World
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3230
+#EXTINF:0 ,Disney Channel
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1708
+#EXTINF:0 ,Disney Junior
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16649
+#EXTINF:0 ,Disney XD
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3219
+#EXTINF:0 ,E!
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8036
+#EXTINF:0 ,ELEVEN SPORTS 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/347
+#EXTINF:0 ,ELEVEN SPORTS 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3643
+#EXTINF:0 ,ELEVEN SPORTS 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3644
+#EXTINF:0 ,ELEVEN SPORTS 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3645
+#EXTINF:0 ,Epic Drama
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2694
+#EXTINF:0 ,Eska Rock TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/26211
+#EXTINF:0 ,Eska TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2707
+#EXTINF:0 ,Eska TV Extra
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281589
+#EXTINF:0 ,Eurosport 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/348
+#EXTINF:0 ,Eurosport 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3218
+#EXTINF:0 ,Extreme Sports Channel
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/349
+#EXTINF:0 ,FIGHT BOX
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/350
+#EXTINF:0 ,FIGHT Klub
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/67638
+#EXTINF:0 ,FilmBox Action
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3232
+#EXTINF:0 ,FilmBox Arthouse
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1707
+#EXTINF:0 ,FilmBox Extra
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/351
+#EXTINF:0 ,FilmBox Family
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/352
+#EXTINF:0 ,FilmBox Premium
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1705
+#EXTINF:0 ,Fokus TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/24267
+#EXTINF:0 ,Food Network
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/26204
+#EXTINF:0 ,Fox
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16650
+#EXTINF:0 ,Fox Comedy
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3235
+#EXTINF:0 ,FX
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/304314
+#EXTINF:0 ,FX Comedy
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/304315
+#EXTINF:0 ,Golf Channel
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/26575
+#EXTINF:0 ,HBO
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/10194
+#EXTINF:0 ,HBO 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3217
+#EXTINF:0 ,HBO 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1704
+#EXTINF:0 ,HGTV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/23202
+#EXTINF:0 ,History
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2719
+#EXTINF:0 ,History 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16659
+#EXTINF:0 ,Home TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/276491
+#EXTINF:0 ,Investigation Discovery
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16686
+#EXTINF:0 ,JimJam Polsat
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1696
+#EXTINF:0 ,Kino Polska
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16691
+#EXTINF:0 ,Kino Polska Muzyka
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/26209
+#EXTINF:0 ,Kino TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/24242
+#EXTINF:0 ,Lifetime
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/304363
+#EXTINF:0 ,Metro
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/26202
+#EXTINF:0 ,MiniMini+
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3231
+#EXTINF:0 ,Motowizja
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3216
+#EXTINF:0 ,MTV 00s
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/304316
+#EXTINF:0 ,MTV 90s
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/67657
+#EXTINF:0 ,MTV Polska
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16689
+#EXTINF:0 ,N Sport+
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/10528
+#EXTINF:0 ,NAT GEO
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1702
+#EXTINF:0 ,NAT GEO People
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16663
+#EXTINF:0 ,NAT GEO Wild
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/278637
+#EXTINF:0 ,Nick Junior
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16641
+#EXTINF:0 ,nickelodeon
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16647
+#EXTINF:0 ,Nicktoons
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16646
+#EXTINF:0 ,Novela TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/192812
+#EXTINF:0 ,Novelas+
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/276492
+#EXTINF:0 ,Nowa TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16640
+#EXTINF:0 ,Nuta TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/84764
+#EXTINF:0 ,Paramount Channel
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/10190
+#EXTINF:0 ,PLANETE+
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1701
+#EXTINF:0 ,Polo TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1700
+#EXTINF:0 ,Polonia 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/276494
+#EXTINF:0 ,Polsat
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3234
+#EXTINF:0 ,Polsat 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3233
+#EXTINF:0 ,Polsat Cafe
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1699
+#EXTINF:0 ,Polsat Doku
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1698
+#EXTINF:0 ,Polsat Film
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1697
+#EXTINF:0 ,Polsat Games
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16668
+#EXTINF:0 ,Polsat Music
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2688
+#EXTINF:0 ,Polsat News
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2689
+#EXTINF:0 ,Polsat News 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2690
+#EXTINF:0 ,Polsat Play
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2691
+#EXTINF:0 ,Polsat Premiera
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/280324
+#EXTINF:0 ,Polsat Rodzina
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/26591
+#EXTINF:0 ,Polsat Seriale
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16643
+#EXTINF:0 ,Polsat Sport
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/356
+#EXTINF:0 ,Polsat Sport 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/304319
+#EXTINF:0 ,Polsat Sport 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/304317
+#EXTINF:0 ,Polsat Sport Extra
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/353
+#EXTINF:0 ,Polsat Sport FIGHT
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/26592
+#EXTINF:0 ,Polsat Sport News
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/355
+#EXTINF:0 ,Polsat Sport Premium 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/23199
+#EXTINF:0 ,Polsat Sport Premium 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/29607
+#EXTINF:0 ,Polsat Sport Premium 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/147031
+#EXTINF:0 ,Polsat Sport Premium 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/147034
+#EXTINF:0 ,Polsat Sport Premium 5
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/147035
+#EXTINF:0 ,Polsat Sport Premium 6
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/147036
+#EXTINF:0 ,Power TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/10525
+#EXTINF:0 ,Puls 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/26596
+#EXTINF:0 ,Red Carpet
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/26191
+#EXTINF:0 ,Romance
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16671
+#EXTINF:0 ,sci-fi
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3207
+#EXTINF:0 ,Sport Klub
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3211
+#EXTINF:0 ,Stars TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2710
+#EXTINF:0 ,Stopklatka TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/26190
+#EXTINF:0 ,StudioMed TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/193765
+#EXTINF:0 ,Sundance TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2705
+#EXTINF:0 ,Super Polsat
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2692
+#EXTINF:0 ,Tele 5
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/192814
+#EXTINF:0 ,TeleToon+
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16644
+#EXTINF:0 ,TLC
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3210
+#EXTINF:0 ,Travel Channel
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/24273
+#EXTINF:0 ,TTV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2696
+#EXTINF:0 ,TV 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3238
+#EXTINF:0 ,TV 6
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/23198
+#EXTINF:0 ,TV Kujawy
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/41798
+#EXTINF:0 ,TV Okazje
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/67589
+#EXTINF:0 ,TV Puls
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1694
+#EXTINF:0 ,TV Regionalna
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/280323
+#EXTINF:0 ,TV Torun
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/41791
+#EXTINF:0 ,TV TRWAM
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/196356
+#EXTINF:0 ,TVC
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/192105
+#EXTINF:0 ,TVN
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16642
+#EXTINF:0 ,TVN 7
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2683
+#EXTINF:0 ,TVN 24
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2682
+#EXTINF:0 ,TVN 24 BiS
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16674
+#EXTINF:0 ,TVN Fabula
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2684
+#EXTINF:0 ,TVN Style
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/19708
+#EXTINF:0 ,TVN Turbo
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3229
+#EXTINF:0 ,TVP 3 Bialystok
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299780
+#EXTINF:0 ,TVP 3 Opole
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299779
+#EXTINF:0 ,TVP 3 Warszawa
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/25582
+#EXTINF:0 ,TVP ABC
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2677
+#EXTINF:0 ,TVP Dokument
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/276472
+#EXTINF:0 ,TVP History
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2675
+#EXTINF:0 ,TVP Info
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2674
+#EXTINF:0 ,TVP Kultura
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2678
+#EXTINF:0 ,TVP Polonia
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3208
+#EXTINF:0 ,TVP Rozrywka
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2698
+#EXTINF:0 ,TVP Seriale
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1691
+#EXTINF:0 ,TVP Sport
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3240
+#EXTINF:0 ,TVS
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/78386
+#EXTINF:0 ,TVT Zgorzelec
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/294858
+#EXTINF:0 ,Viasat Explore
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16657
+#EXTINF:0 ,Viasat History
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16658
+#EXTINF:0 ,Viasat Nature
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16661
+#EXTINF:0 ,VOD 202
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2728
+#EXTINF:0 ,VOD 205
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/296475
+#EXTINF:0 ,VOD 206
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/296476
+#EXTINF:0 ,Vox Music TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1690
+#EXTINF:0 ,W Polsce
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/64681
+#EXTINF:0 ,Warner TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2713
+#EXTINF:0 ,Water Planet
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/192815
+#EXTINF:0 ,WP TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/24244
+#EXTINF:0 ,Zoom TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/24246
+#EXTINF:0 ,Белсат ТВ (Belsat)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/297693
